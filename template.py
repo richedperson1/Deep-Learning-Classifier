@@ -14,7 +14,10 @@ listOfFiles = [
     f"src/{PACKAGE_NAME}/config/__init__.py",
     f"src/{PACKAGE_NAME}/pipeline/__init__.py",
     f"src/{PACKAGE_NAME}/entity/__init__.py",
-    f"src/{PACKAGE_NAME}/constants/__init__.py"
+    f"src/{PACKAGE_NAME}/constants/__init__.py",
+    "test/__init__.py",
+    "test/unit/__init__.py",
+    "test/integration/__init__.py",
     "configs/config.yaml",
     "dvc.yml",
     "params.yaml",
